@@ -32,9 +32,8 @@ public class TextRecognitionService : ITextRecognitionService
     image.Save(outputFilePath, ImageFormat.Jpeg);
     
     var newImage = new Bitmap(outputFilePath);
-    var textt = await _ocrService.PassportNumberRecognition(newImage); 
+    var textt = await _ocrService.PassportNumberRecognition(newImage);
 
-    
     var text = await _ocrService.PassportNumberRecognition(image); 
     
     return new RecognitionText(textt, text);
