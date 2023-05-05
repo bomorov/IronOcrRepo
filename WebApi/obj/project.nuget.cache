@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "2BCZmByMGL1SndM25mXPihY1jJc5CL0GKezATWAoZEL9ZQc9maYE2TLB+1P6+zeoxv0iWyngyWw0EA/adLh2Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erbol\\RiderProjects\\TextRecognition\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erbol\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\ironocr\\2023.5.35\\ironocr.2023.5.35.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\ironsoftware.system.drawing\\2023.4.4\\ironsoftware.system.drawing.2023.4.4.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Erbol\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
